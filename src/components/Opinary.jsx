@@ -16,7 +16,7 @@ function Opinary (){
                 feel like advertising​</h3>
                 <p className='desc'>Our instantly recognisable voting tools help global brands reach over 125 million users by simply asking the right questions within our premium publisher network.</p>
                 <div>                
-                <button className='btn'>Learn More</button>
+                <a className='btn' href="#">Learn More</a>
                 </div>
             </div>
             </div>
