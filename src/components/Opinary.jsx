@@ -12,7 +12,7 @@ function Opinary (){
             </div>
             <div className='col-md-6'>
                 <div className='label'>OPINARY FOR BRANDS</div>
-                <h3>Advertising that doesn’t
+                <h3>Advertising that doesn’t <br/>
                 feel like advertising​</h3>
                 <p className='desc'>Our instantly recognisable voting tools help global brands reach over 125 million users by simply asking the right questions within our premium publisher network.</p>
                 <div>                

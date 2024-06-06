@@ -7,6 +7,11 @@ This will give you quick glance how project is working
 https://docs.google.com/document/d/18ig9EIQV3n3P3F0Q-4teCzua7tRyeNNfZpFk9pLdp2s/edit?usp=sharing
 
 
+#Build
+In dist folder
+index.html - demo html file of react build of UI element with Poll
+main.html - demo file for webcomponent 
+
 ## Description
 This is a simple embeddable poll widget built using React Vite. It allows users to vote on a question and see the results. The poll data is stored in `localStorage`.
 
