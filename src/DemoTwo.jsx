@@ -22,7 +22,7 @@ function DemoTwo() {
       pollId: "poll4",
     },
     {
-      question: "6. How would you describe your sleep quality",
+      question: "3. How would you describe your sleep quality",
       options: [
         "Excellent",
         "Average",

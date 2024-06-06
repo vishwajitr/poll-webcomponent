@@ -1,3 +1,6 @@
+# Deployed Link
+https://main--poll-widget.netlify.app/
+
 # Poll Widget
 This will give you quick glance how project is working
 

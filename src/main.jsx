@@ -7,8 +7,8 @@ import DemoOne from "./DemoOne.jsx";
 
 
 
-// const PollElement = r2wc(DemoOne,React,ReactDOM);
-// customElements.define("poll-element",PollElement);
+const PollElement = r2wc(DemoOne,React,ReactDOM);
+customElements.define("poll-element",PollElement);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

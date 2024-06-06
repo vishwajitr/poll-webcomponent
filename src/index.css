@@ -185,7 +185,7 @@ button{font-family:inherit;outline:0;border:0}
 .fx-row{margin:0 -15px;display:flex;justify-content:flex-start;flex-wrap:wrap}
 .fx-h-row{margin:0 -15px;display:flex;justify-content:flex-start;flex-flow:row wrap;height:100%}
 .no-scroll{overflow-y:hidden}
-.btn{background:#fff;color:var(--secondaryColor);padding:10px 25px;font-weight:600;font-size:17px;border-radius:5px}
+.btn{background:#fff;color:#000;padding:10px 25px;font-weight:600;font-size:17px;border-radius:5px}
 
 /* Hero CSS */
 .survey-wrap{background-color:var(--secondaryColor);padding:62px 0}
@@ -203,7 +203,7 @@ nav > ul > li .active{color:var(--secondaryColor); }
 /* Nav CSS */
 
 /* Poll Block CSS */
-.poll-container{background:#fafafa;max-width:600px;margin:0 auto;padding:20px}
+.poll-container{background:#fafafa;max-width:600px;margin:0 auto;padding:10px 20px}
 .poll-container label{display:block}
 .poll-container label input{margin-right:10px}
 .survey-wrap .desc{margin:10px 0 25px}
